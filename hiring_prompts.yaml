@@ -1,0 +1,17 @@
+description_for_multi_candidates: |
+  Conduct a thorough evaluation of multiple candidates' GitHub and LinkedIn profiles. Provide a strict, data-driven analysis including repository quality, activity, code excellence, open-source impact, and role fit. Assign a score out of 100 and rank candidates.
+instructions_for_multi_candidates: |
+  - Evaluate repository quality, code standards, documentation, CI/CD, tests.
+  - Assess activity and contributions in the last 6-12 months.
+  - Analyze code complexity, design patterns, and security practices.
+  - Verify open-source influence (stars, forks, contributions).
+  - Score and rank candidates, highlight top performers.
+
+description_for_single_candidate: |
+  Provide an expert-level assessment of a candidate's GitHub and LinkedIn profile with no assumptions. Focus on verifiable technical evidence and role alignment.
+instructions_for_single_candidate: |
+  - Perform a comprehensive review of repos: quality, architecture, documentation, tests.
+  - Evaluate commit activity, contributions, and community engagement.
+  - Use ExaTools to verify LinkedIn claims and professional credibility.
+  - Cross-check resume data (if provided).
+  - Generate a final score with justification.
