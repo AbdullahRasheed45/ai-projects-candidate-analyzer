@@ -1,0 +1,7 @@
+streamlit
+python-dotenv
+agno
+openai
+pyyaml
+pandas
+pydantic
